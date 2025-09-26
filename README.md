@@ -1,6 +1,17 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Rocío Rojas! </h1>
-<h3 align="center"> Geophysical Engeneering Student 🌎 | Programming Self-Learner 💡 | Interested in Energy Industry ⚡ </h3>
+<h3 align="center"> Geophysical Engineering Student 🌎 | Programming Self-Learner 💡 | Interested in Energy Industry ⚡ </h3>
 <p align="center">
+
+<img align="right" width=350px alt="Earth" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExazgzOThqOG01YzF6cWdzaW9kZ2JwcWNqZTVzN3Q2OWVneHF0a3dodSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9FXA260svGMw3QRFC8/giphy.gif" />
+
+<h2 align="left">About me <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdXZ6a25vY3ZjcndmZDVvYXgyd2Y0azR6ZGFsanl3cG02MmliYXlnbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lq1GuvIJBP1ZndJXDE/giphy.gif" width="30px">&nbsp;  </h2> 
+
+I am a senior geophysics engineering student, I'm learning new skills and this is the perfect place to reflect them, so I will update any project or idea that comes into my mind! 
+- 🌱 I’m currently learning ...
+  - Well logging petrophysics
+  - Python
+- ✔ Ask me about anything, I am happy to help<br>
+- My hobbies include cooking 🍰, swimming 🏊‍♀️ and reading mystery novels 🔍
 
 ### 💻 &nbsp;Tech Stack
 
@@ -32,5 +43,6 @@
 ### Download my CV here! ⬇ 
   <a href= "https://drive.google.com/file/d/1NOIIhCe16RzoOJQx9X0B3X3TQG5mnASP/view?usp=sharing">
          <img src="https://img.shields.io/badge/-CV_Spanish-05122A?style=flat">
-
+  <a href= "https://drive.google.com/file/d/1gzOBgUFPTYfpiV7OLUqsZyUXsx8MS3cH/view?usp=sharing">
+         <img src= "https://img.shields.io/badge/-CV_English-05122A?style=flat">
     
