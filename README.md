@@ -29,12 +29,8 @@
 ![Chinese :china_flag:](https://img.shields.io/badge/-Chinese-05122A?style=flat)&nbsp;
 ![French :france_flag:](https://img.shields.io/badge/-French-05122A?style=flat)&nbsp;
 
-### Download my CV! 📝
-  <details>
-  <summary>Click to expand!</summary>
-  <br>
-    <p>
-      <a> 
-  </p>
-  <br>
+### Download my CV here! ⬇ 
+  <a href= "https://drive.google.com/file/d/1NOIIhCe16RzoOJQx9X0B3X3TQG5mnASP/view?usp=sharing">
+         <img src="https://img.shields.io/badge/-CV_Spanish-05122A?style=flat">
 
+    
