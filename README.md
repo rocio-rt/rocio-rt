@@ -41,7 +41,11 @@ I am a senior geophysics engineering student, I'm learning new skills and this i
 
 ### Download my CV here! ⬇ 
   <a href= "https://drive.google.com/file/d/1NOIIhCe16RzoOJQx9X0B3X3TQG5mnASP/view?usp=sharing">
-         <img src="https://img.shields.io/badge/-CV_Spanish-05122A?style=flat">
+       <img src="https://img.shields.io/badge/-CV_Spanish-05122A?style=flat">
+    
   <a href= "https://drive.google.com/file/d/1gzOBgUFPTYfpiV7OLUqsZyUXsx8MS3cH/view?usp=sharing">
          <img src= "https://img.shields.io/badge/-CV_English-05122A?style=flat">
+    
+  <a href= "https://drive.google.com/drive/folders/1gumqmWIYcazIWCcbe64tokqIZXujVwQm?usp=sharing">
+         <img src= "https://img.shields.io/badge/-Certificates-05122A?style=flat">
     
