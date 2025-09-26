@@ -21,7 +21,6 @@ I am a senior geophysics engineering student, I'm learning new skills and this i
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Matlab](https://img.shields.io/badge/-MATLAB-05122A?style=flat)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat)&nbsp;
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-05122A?style=flat)&nbsp;
 
 ### 🌐 &nbsp;Geophysical Software
 ![Petrel](https://img.shields.io/badge/-Petrel%202017-05122A?style=flat)&nbsp;
